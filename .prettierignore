@@ -1,0 +1,9 @@
+/.vscode
+/node_modules
+./dist
+
+*.env
+.env
+.env*
+# * means extensions when kept last
+# prefix when kept front
